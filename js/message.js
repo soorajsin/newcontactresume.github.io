@@ -11,6 +11,7 @@ btn.addEventListener('click', function(e) {
 
          
 
+          // SmtpJS.com
          //email portion
          Email.send({
           SecureToken : "eab4d504-7a99-419d-87a0-37df52b78f37 ",
