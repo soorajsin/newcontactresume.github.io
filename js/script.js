@@ -2,9 +2,7 @@
 var preloader = document.getElementById('loading');
 
 function myLoadingpage() {
-    setTimeout(() => {
-        preloader.style.display = 'none';
-    }, 2000);
+    preloader.style.display = 'none';
 }
 
 
