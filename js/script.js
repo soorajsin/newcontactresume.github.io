@@ -1,9 +1,13 @@
 // ====================loading page
-var preloader = document.getElementById('loading');
+// var preloader = document.getElementById('loading');
 
-function myLoadingpage() {
-    preloader.style.display = 'none';
-}
+// function myLoadingpage() {
+//     preloader.style.display = 'none';
+// }
+
+setTimeout(function(){
+    document.getElementById('loading').style.display = 'none';
+}, 3000)
 
 
 
