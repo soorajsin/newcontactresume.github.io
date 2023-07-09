@@ -692,6 +692,7 @@ h3.my-profession {
 }
 
 .portfolio .portfolio-item-inner .portfolio-img img {
+          display: flex;
           width: 100%;
           display: block;
           border-radius: 5%;
