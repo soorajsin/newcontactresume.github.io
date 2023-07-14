@@ -710,6 +710,15 @@ h3.my-profession {
           width: 300px;
 }
 
+#gellery {
+          display: flex;
+          flex-wrap: wrap;
+}
+
+#gellery .row .portfolio-heading {
+          position: relative;
+          bottom: 5px;
+}
 
 
 
