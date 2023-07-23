@@ -710,7 +710,22 @@ h3.my-profession {
           width: 300px;
 }
 
+#hidden {
+          position: absolute;
+          top: 0;
+          background-color: #393939;
+          width: 30%;
+          height: 30%;
+          border-radius: 10px;
+          color: red;
+          font-size: 50px;
+          visibility: hidden;
+          display: block;
+}
 
+#hoverid:hover #hidden {
+          visibility: visible;
+}
 
 
 
