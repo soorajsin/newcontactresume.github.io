@@ -712,6 +712,7 @@ h3.my-profession {
 
 #hidden {
           position: absolute;
+          cursor: pointer;
           background-color: #94ADD7;
           width: 30%;
           height: 30%;
