@@ -20,6 +20,10 @@ var typed = new Typed(".typing", {
     backSpeed: 60,
     loop: true
 })
+
+
+
+
 //  ==================================  Aside =====================================
 const nav = document.querySelector(".nav"),
     navList = nav.querySelectorAll("li"),
